@@ -2,7 +2,15 @@
 
 ## instalar o python
 
-- versão: 2.7.12 
+link: https://www.python.org/downloads/release/python-2712/
+
+para computadores 64bits.
+Windows x86-64 MSI installer
+
+para computadores 32bits.
+Windows x86 MSI installer
+
+versão: 2.7.12 
 
 criar a pasta c:\python27
 
@@ -10,6 +18,7 @@ siga as imagens para instalação
 
 ![passos para instalação](/img/py01.jpg "python instalação")
 ![passos para instalação](/img/py02.jpg "python instalação")
+a seta vermelha indica para instalar o caminho do python no path do sistema operacional.
 ![passos para instalação](/img/py03.jpg "python instalação")
 ![passos para instalação](/img/py04.jpg "python instalação")
 
