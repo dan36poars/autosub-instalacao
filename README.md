@@ -23,18 +23,20 @@ a seta vermelha indica para instalar o caminho do python no path do sistema oper
 ![passos para instalação](/img/py04.jpg "python instalação")
 
 ## copie os arquivos: 
+para dentro da pasta c:\python27
 
 - ffmpeg.exe
 - ffplay.exe
 - ffprobe.exe
 
-para dentro da pasta c:\python27
+pode-se encontrar os arquivos no link:
+https://ffmpeg.zeranoe.com/builds/
+
 
 - testar na linha de comando do windows:
-   
-  python -V
+ `c:\python -V`
 
-  ffmpeg
+  `c:\ffmpeg`
 
 aparecendo as informações das imagens esta correta a instalação.
 
