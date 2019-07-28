@@ -17,7 +17,7 @@ criar a pasta c:\python27
 siga as imagens para instalação
 
 ![passos para instalação](/img/py01.jpg "python instalação")
-![passos para instalação](/img/py02.jpg "python instalação")
+![passos para instalação](/img/py02.jpg "python instalação")<br>
 a seta vermelha indica para instalar o caminho do python no path do sistema operacional.<br>
 ![passos para instalação](/img/py03.jpg "python instalação")
 ![passos para instalação](/img/py04.jpg "python instalação")
