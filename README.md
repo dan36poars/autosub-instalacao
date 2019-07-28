@@ -32,13 +32,17 @@ para dentro da pasta c:\python27
 pode-se encontrar os arquivos no link:
 https://ffmpeg.zeranoe.com/builds/
 
-
 - testar na linha de comando do windows:
+
  `c:\python -V`
 
   `c:\ffmpeg`
 
 aparecendo as informações das imagens esta correta a instalação.
+
+![passos para instalação](/img/cmd01.jpg "python instalação")
+
+![passos para instalação](/img/py01.jpg "ffmpeg instalação")
 
 ## instalação autosub
 
