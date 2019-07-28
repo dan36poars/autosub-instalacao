@@ -7,9 +7,11 @@
 criar a pasta c:\python27
 
 siga as imagens para instalação
-as imagens tem nome de py01.jpg, py02.jpg, py03.jpg
 
 ![passos para instalação](/img/py01.jpg "python instalação")
+![passos para instalação](/img/py02.jpg "python instalação")
+![passos para instalação](/img/py03.jpg "python instalação")
+![passos para instalação](/img/py04.jpg "python instalação")
 
 ## copie os arquivos: 
 
