@@ -42,7 +42,7 @@ aparecendo as informações das imagens esta correta a instalação.
 
 ![passos para instalação](/img/cmd01.jpg "python instalação")
 
-![passos para instalação](/img/py01.jpg "ffmpeg instalação")
+![passos para instalação](/img/cmd02.jpg "ffmpeg instalação")
 
 ## instalação autosub
 
