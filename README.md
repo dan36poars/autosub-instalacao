@@ -89,7 +89,7 @@ comando para gerar a legenda:
 
 o que esta em parenteses é o nome do arquivo de video.
 
-para exemplo esta video1.mp4, logo ficará.
+para exemplo, o video1.mp4, logo ficará.
 
     C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
 
