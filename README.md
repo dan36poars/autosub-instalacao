@@ -53,6 +53,17 @@ digite na linha de comando do prompt: ( o pip é um gerenciador de pacotes do py
 
 C:\Python27\Scripts\pip.exe install autosub
 
+![passos para instalação](/img/autosub-install-01.jpg "autosub instalação")
+
+listas suportadas no autosub:
+
+code
+    
+    `c:\python c:\Python\scripts\autosub_app.py --list-languages`
+
+![passos para instalação](/img/autosub-install-02.jpg "autosub instalação")
+
+
 dentro da pasta C:\Python27\Scripts o autosub estará sem a 
 extensão py. baixe o arquivo autosub_app.py e mova-o para esta
 pasta. algumas modificações foram feitas nesse arquivo. o diferenciando
