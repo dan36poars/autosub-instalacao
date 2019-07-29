@@ -83,8 +83,9 @@ qual quer gerar a legenda e o video deve ter o audio em inglês e abra o termina
 
 no prompt de comando digite:
 
-comando para gerar a legenda
-C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en (nome_do_video).mp4
+comando para gerar a legenda:
+
+    C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en (nome_do_video).mp4
 
 o que esta em parenteses é o nome do arquivo de video.
 
@@ -96,7 +97,7 @@ para exemplo esta video1.mp4, logo ficará.
 
 ou
 
-python C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
+    python C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
 
 ![passos para instalação](/img/autosub-install-03.jpg "autosub instalação")
     
