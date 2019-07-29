@@ -55,14 +55,13 @@ C:\Python27\Scripts\pip.exe install autosub
 
 ![passos para instalação](/img/autosub-install-01.jpg "autosub instalação")
 
-listas suportadas no autosub:
+mostra a lista de suporte para detecção de idiomas
 
 code
     
-    `c:\python c:\Python\scripts\autosub_app.py --list-languages`
+    c:\python c:\Python\scripts\autosub_app.py --list-languages
 
 ![passos para instalação](/img/autosub-install-02.jpg "autosub instalação")
-
 
 dentro da pasta C:\Python27\Scripts o autosub estará sem a 
 extensão py. baixe o arquivo autosub_app.py e mova-o para esta
@@ -75,24 +74,31 @@ reinicie o windows.
 
 no prompt de comando digite:
 
-mostra a lista de suporte para detecção de idiomas
-C:\Python27\python.exe C:\Python27\scripts\autosub_app.py --list-languages
-
 gerar legenda para idioma em inglês  acesse a pasta onde esta o arquivo de video no
 qual quer gerar a legenda e o video deve ter o audio em inglês e abra o terminal de comando:
 
-shift + botão direito do mouse na area em branco dentro da pasta
-ao surgir o menu selecione abrir janela de comando aqui.
+![passos para instalação](/img/autosub-install-03.jpg "autosub instalação")
+
+    shift + botão direito do mouse na area em branco dentro da pasta
+    ao surgir o menu selecione abrir janela de comando aqui.
 
 comando para gerar a legenda
 C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en (nome_do_video).mp4
 
-o que esta em parenteses e o nome do arquivo de video.
+o que esta em parenteses é o nome do arquivo de video.
 
 para exemplo esta video1.mp4, logo ficará.
-C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
+
+    C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
+
+![passos para instalação](/img/autosub-install-03.jpg "autosub instalação")
+
 ou
+
 python C:\Python27\scripts\autosub_app.py -S en -D en video1.mp4
+
+![passos para instalação](/img/autosub-install-03.jpg "autosub instalação")
+    
 
 irá gerar um arquivo com extensão srt no mesmo local do arquivo que foi analizado.
 Obviamente a transcrição pode conter algumas inconsistências.
