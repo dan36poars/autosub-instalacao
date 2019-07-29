@@ -72,7 +72,6 @@ reinicie o windows.
 
 ### gerar legendas
 
-no prompt de comando digite:
 
 gerar legenda para idioma em inglês  acesse a pasta onde esta o arquivo de video no
 qual quer gerar a legenda e o video deve ter o audio em inglês e abra o terminal de comando:
@@ -81,6 +80,8 @@ qual quer gerar a legenda e o video deve ter o audio em inglês e abra o termina
 
     shift + botão direito do mouse na area em branco dentro da pasta
     ao surgir o menu selecione abrir janela de comando aqui.
+
+no prompt de comando digite:
 
 comando para gerar a legenda
 C:\Python27\python.exe C:\Python27\scripts\autosub_app.py -S en -D en (nome_do_video).mp4
