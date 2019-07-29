@@ -39,7 +39,7 @@ https://ffmpeg.zeranoe.com/builds/
 
   `c:\ffmpeg`
 
-aparecendo as informações das imagens esta correta a instalação.
+imagens corretas das instalações respectivamente.
 
 ![passos para instalação](/img/cmd01.jpg "python instalação")
 
