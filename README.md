@@ -22,8 +22,9 @@ a seta vermelha indica para instalar o caminho do python no path do sistema oper
 ![passos para instalação](/img/py03.jpg "python instalação")
 ![passos para instalação](/img/py04.jpg "python instalação")
 
-## copie os arquivos: 
-para dentro da pasta c:\python27
+## Arquivos: 
+
+copie para dentro da pasta c:\python27 os arquivos:
 
 - ffmpeg.exe
 - ffplay.exe
@@ -51,7 +52,7 @@ Há varias maneiras para instalar o autosub. a mais simples
 
 digite na linha de comando do prompt: ( o pip é um gerenciador de pacotes do python )
 
-C:\Python27\Scripts\pip.exe install autosub
+    C:\Python27\Scripts\pip.exe install autosub
 
 ![passos para instalação](/img/autosub-install-01.jpg "autosub instalação")
 
